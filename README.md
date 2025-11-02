@@ -75,7 +75,7 @@ int main() {
 |  Precision    | Around 15-16 decimal digits                  | Around 18-19 decimal digits or more                      |
 |  Range        | ~ ±1.7 × 10³⁰                                | Larger than double, depending on the system              |
 |  Use Case     |  General-purpose floating-point values       | Higher precision required (e.g., scientific calculations)|
-|  Memory       |  Less memory usage compared to long double   | Uses more memory (if 16 bytes)
+|  Memory       |  Less memory usage compared to long double   | Uses more memory (if 16 bytes)                           |
 ---
 
 #### double Example 
